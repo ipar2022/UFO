@@ -36,5 +36,5 @@ If you capitalize any letter you will have a failed search result as the followi
 One major issue with the search function box is that if you capitalize any letter you will have a failed search result. 
 
 Further development recommendations.
-1.	Adding a search button will make the webpage more user friendly.
+1.	Adding a clickable search button will make the webpage more user friendly.
 2.	 Visually showing the locations of these phenomenon would add some pizzazz to the webpage.
