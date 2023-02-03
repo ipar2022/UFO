@@ -1,12 +1,12 @@
 # UFO
 
-1.	Overview of the analysis:
+- Overview of the analysis:
 This analysis project will provide a website that contains tables with UFO data sightings. 
 The coding analysis was written in JavaScript and the code for the webpage was written in HTML. Pictures demonstrating how to use the webpage will be included.
 
 
 
-2.	Results:
+- Results:
 The homepage is shown below.
 ![home_page](https://user-images.githubusercontent.com/113808332/216508768-2d76df00-4414-4662-8d10-b59196db15ad.png)
 
