@@ -32,7 +32,7 @@ If you capitalize any letter you will have a failed search result as the followi
 
 
 
-3.	Summary:
+- Summary:
 One major issue with the search function box is that if you capitalize any letter you will have a failed search result. 
 
 Further development recommendations.
